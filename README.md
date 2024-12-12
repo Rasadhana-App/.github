@@ -20,7 +20,6 @@ The food and beverage (F&B) industry in Indonesia faces significant challenges r
 ## Repository
 
 1. [Machine Learning](https://github.com/)
-2. [Mobile Development](https://github.com/)
-3. [Cloud Computing]
-   3.1 [Backend Api Node.js](https://github.com/josptrra/be-rasadhana)
-   3.2 [Backend Api ML](https://github.com/vikitobroni/api-ml-rasadhana)
+2. [Mobile Development](https://github.com/mizzcode/RasaDhana)
+3. [Cloud Computing Backend Api Node.js](https://github.com/josptrra/be-rasadhana)
+4. [Cloud Computing Backend Api ML](https://github.com/vikitobroni/api-ml-rasadhana)
